@@ -1,0 +1,11 @@
+{
+  "name": "mini-react",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
